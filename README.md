@@ -84,7 +84,7 @@ Analyze the Titanic dataset to explore passenger survival patterns and create a 
 
 ## 📂 Dataset
 
-- Dataset: [Titanic Dataset CSV](https://www.kaggle.com/c/titanic/data)
+- Dataset: [Titanic Dataset CSV](https://www.kaggle.com/datasets/ashishkumarjayswal/titanic-datasets)
 - Source: Kaggle
 
 ---
@@ -97,14 +97,6 @@ Analyze the Titanic dataset to explore passenger survival patterns and create a 
 
 ---
 
-## 📌 Optional
-
-- Include link to Colab: `[Open in Colab](https://colab.research.google.com/)`  
-- Add README badges (Python version, license) for GitHub display
-
----
-
 ## 🔗 Author
 
 **Meerab Khan**  
-GitHub: [https://github.com/MeerabKhan123](https://github.com/MeerabKhan123)
